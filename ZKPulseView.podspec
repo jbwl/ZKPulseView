@@ -3,7 +3,8 @@ Pod::Spec.new do |s|
   s.name         = "ZKPulseView"
   s.version      = "0.0.3"
   s.summary      = "Simple iOS UIView Category to create a Pulse (Breathing light) Effect on your needs"
-
+  s.authors      = "Zak Chung"
+  s.license      = { :type => 'MIT' }
   s.description  = <<-DESC
                    Display a pulse within a UIView
 
